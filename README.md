@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently looking for a position as a **Junior Software Engineer** 
-- 🌱 I’m starting a new career but already have experience in Marketing, Products, Projects, Sales and Regulatory Affairs working as Nutritionist (Abbott labs.) and Photographer in Brazil and UK.
+- 🌱 I’m starting a new career but already have some experience in Marketing, Products, Projects, Sales and Regulatory Affairs working as Nutritionist (Abbott labs.) and Photographer in Brazil and UK.
 - 👨‍🎓 Computer Science | MBA - FGV | IPMA level D
 - 📫 How to reach me: www.linkedin.com/in/annealmeida
 - 😄 Pronouns: she | her | hers
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/annealmd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annealmd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annealmd&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnneAlmd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneAlmd&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
   <div>
