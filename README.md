@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Anne-Dart" height="40" width="70" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
   <img align="center" alt="Anne-Python" height="40" width="70" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <img align="center" alt="Anne-Java" height="35" width="60" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-   <img align="center" alt="Anne-Solidity" height="40" width="65" src="https://moralis.io/wp-content/uploads/2021/06/Blog-Solidity-Logo.png">
+   <img align="center" alt="Anne-Solidity" height="40" width="85" src="https://moralis.io/wp-content/uploads/2021/06/Blog-Solidity-Logo.png">
    <img align="center" alt="Anne-Cplus" height="40" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg">
 
   </div>
