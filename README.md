@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/annealmeida
 - :purple_heart: bike | walking | yoga | meditation | books (kindle) | music | nature | good stories | crazy people.
 - :dog: pet mum
-- - :four_leaf_clover: vegetarian
+- :mushroom: vegetarian
 - ⚡ Fun fact: I´m always a learner in this world.
 
 <div align="center">
