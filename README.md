@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for a position as a **Junior Software Engineer** 
 - 🌱 I’m starting a new career but already have some experience in Marketing, Products, Projects, Sales and Regulatory Affairs working as Nutritionist (Abbott labs.) and Photographer in Brazil and London-UK.
 - 📫 How to reach me: www.linkedin.com/in/annealmeida
-- :purple_heart: bike | walking | yoga | meditation | books (kindle) | music | nature | good stories.
+- :purple_heart: bike | walking | yoga | meditation | books (kindle) | music | nature | good stories | crazy people.
+- :dog: pet mum
+- - :four_leaf_clover: vegetarian
 - ⚡ Fun fact: I´m always a learner in this world.
 
 <div align="center">
