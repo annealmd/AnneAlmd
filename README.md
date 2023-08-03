@@ -13,11 +13,11 @@ Here are some ideas to get you started:
  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
 -->
-- 🔭 I’m currently looking for a position as a **Junior Software Engineer** 
-- 🌱 I’m starting a new career but already have some experience in Marketing, Products, Projects, Sales and Regulatory Affairs working as Nutritionist (Abbott labs.) and Photographer in Brazil and UK.
 - 👨‍🎓 Computer Science | MBA - FGV | IPMA level D
+- 🔭 I’m currently looking for a position as a **Junior Software Engineer** 
+- 🌱 I’m starting a new career but already have some experience in Marketing, Products, Projects, Sales and Regulatory Affairs working as Nutritionist (Abbott labs.) and Photographer in Brazil and London-UK.
 - 📫 How to reach me: www.linkedin.com/in/annealmeida
-- 😄 Pronouns: she | her | hers
+- :purple_heart: bike | walking | yoga | meditation | books (kindle) | music | nature | good stories.
 - ⚡ Fun fact: I´m always a learner in this world.
 
 <div align="center">
